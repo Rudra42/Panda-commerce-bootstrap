@@ -1,0 +1,13 @@
+.custom-bg-info{
+    background-color: #fceae8 !important;
+    border: none;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.panda-btn-buy-now{
+    background-color: #FF4A92;
+    color: white;
+}
